@@ -1,6 +1,8 @@
 
                                             LiveSpeaker
 
+To See the details of this application, Please Check user_story
+
 The application of our group project is LiveSpeaker. The primary function of this app is to provide a platform for people to start presentations or take notes. It also includes different application functions such as uploading PDF files, PowerPoint files, file notes, photos, etc. Our app supports a web or mobile interface. Presenters and viewers can also take notes while watching the video or live session. These notes are recorded in timestamps and will be viewed by other viewers. The application will also capture the timestamp of the video.
 
 The creation of this application is beneficial to society. The pandemic significantly impacted the education sector in the last few years. The most important reason was that students might not be able to attend classes in person, which affected schools, students, and teachers simultaneously. We need to consider that the same events as the pandemic might happen again in the future. Our software allows teachers and students to participate in online lectures, and audiences/students can take notes. These would help them review the information that they may forget during the live session. It can also help instructors and students save time and focus on class.
